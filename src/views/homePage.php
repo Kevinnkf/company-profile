@@ -61,7 +61,6 @@
             <div class="hidden duration-700 ease-in-out" data-carousel-item="active">
                 <img src="https://www.skyweaver.net/images/media/wallpapers/wallpaper1.jpg" class="block w-screen h-screen object-cover z-0" alt=" ...">
             </div>
-            <!-- Jumbotron overlay (merged style) -->
             <div class="absolute inset-0 flex items-center justify-center z-100">
                 <div class="px-4 mx-auto max-w-screen-xl text-center py-24 lg:py-56 bg-black/40 rounded-lg mx-90">
                     <h1 class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-white md:text-5xl lg:text-6xl">Welcome to Gobel International</h1>
@@ -204,7 +203,7 @@
             </div>
             <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
             <div class="sm:flex sm:items-center sm:justify-between">
-                <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2025 <a href="https://goblel.co.ud/" class="hover:underline"> PT. Gobel International - Official Website™</a>
+                <span class="text-sm text-gray-500 sm:text-center dark:text-gray-400">&copy; <?php echo date('Y'); ?> PT. Gobel International - Official Website™ <a href="https://goblel.co.id/" class="hover:underline"> </a>
                 </span>
                 <div class="flex mt-4 sm:justify-center sm:mt-0">
                     <a href="#" class="text-gray-500 hover:text-gray-900 dark:hover:text-white">
